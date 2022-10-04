@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AdaAutomation"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.177">
+    <properties></properties>
+
+
+
+            <testcase
+                name="login"
+                time="0.838"
+                classname="testTopic.addTopic">
+            </testcase>
+            <testcase
+                name="add_topic"
+                time="4.942"
+                classname="testTopic.addTopic">
+            </testcase>
+            <testcase
+                name="search_topic"
+                time="0.147"
+                classname="testTopic.addTopic">
+            </testcase>
+            <testcase
+                name="delete_topic"
+                time="5.250"
+                classname="testTopic.addTopic">
+            </testcase>
+</testsuite>
